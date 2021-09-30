@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337400876430",
+    "firebase_url": "https://find-hostels-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "find-hostels",
+    "storage_bucket": "find-hostels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337400876430:android:63929487575ea69210a8df",
+        "android_client_info": {
+          "package_name": "com.example.findhostels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337400876430-gi10t17sjpohep0kkcfb23p7bpsd5is8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findhostels",
+            "certificate_hash": "12a4ca124f1cbe9d6e5316615ad0d7702d1e6af9"
+          }
+        },
+        {
+          "client_id": "337400876430-8cn65ka61niul2j551rv7k94v6cn20cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkA6N46c_5Oy0RWdo3NaUebcEl9tGWVsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337400876430-8cn65ka61niul2j551rv7k94v6cn20cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
